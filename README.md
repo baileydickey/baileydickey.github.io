@@ -5,7 +5,7 @@
 
 - 🌱 I have a background in **studio art and environmental science.**
 
-- 🧠 I’m excited to learn more about **how to use digital fabrication toolsto create both artistic and functional work that can be used to further explore my interests in ethical design, the environment, and human x technology interaction.**
+- 🧠 I’m excited to learn more about **how to use digital fabrication tools to create both artistic and functional work while further exploring my interests in ethical design, the environment, and human x technology interaction.**
 
 - 🛠 I would love to share more with the class about **letting go of artistic expectations for the sake of getting your hands dirty and learning.**
 
