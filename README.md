@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bailey Dickey.</h1>
+
 <h3 align="center">This is my HCDE 598 Special Topics Digital Fabrication documentation page!</h3>
 
 - 👩🏻‍🎓 I am currently a **second year MS HCDE student.**
