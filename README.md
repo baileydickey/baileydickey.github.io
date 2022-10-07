@@ -4,6 +4,8 @@
 
 <a href="https://imgur.com/4NnZCdv"><img src="https://i.imgur.com/4NnZCdv.jpg" width="232" height="348" title="source: imgur.com" /></a>
 
+<h3 align="leftr">About me...</h3>
+
 - 👩🏻‍🎓 I am currently a **second year MS HCDE student.**
 
 - 🌱 I have a background in **studio art and environmental science.**
