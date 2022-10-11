@@ -10,12 +10,6 @@
 
 <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
 
-<style>
-ul.a {
-  list-style-type: circle;
-}
-</style>
-
 </head> 
  
 <body> 
