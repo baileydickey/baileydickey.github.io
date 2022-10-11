@@ -66,7 +66,14 @@ Following my ideation session, I turned to a quick round of physical prototyping
 With solidified design plans, I then moved into Rhino to create my source files or digital patterns for the laser cutter. I found that there were plenty of resources on youtube and web boards that I was able to use for reference and general guidance. However, the laser cutter was still down, so I couldn’t be entirely sure that my measurements, especially the kerf measurements, were correct. When the laser cutter is back up and running, I will be able to make more fine-tuned adjustments based on test cuts. The Rhino design file was also transferred to Adobe Illustrator as a flat image as a final step before printing could occur. 
   
 <h3 align="leftr">Source Files</h3>
+First Shape Rhino File:
+https://github.com/baileydickey/baileydickey.github.io/blob/282fb3ac9045343a2c823c261685ceb7051c022c/FinalLaserCut.3dm
+
+Second Shape Rhino File:
+https://github.com/baileydickey/baileydickey.github.io/blob/282fb3ac9045343a2c823c261685ceb7051c022c/lasercutefinalpart2.3dm
  
+Both Shapes AI File:
+https://github.com/baileydickey/baileydickey.github.io/blob/282fb3ac9045343a2c823c261685ceb7051c022c/BaileyDickeyLaserCutHCDE533.ai
 </p>
 </div>
 </div>
