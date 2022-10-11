@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
 <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
 </head> 
- <body> 
- <div class="header">
+<body> 
+<div class="header">
 <h1 align="left">Hi 👋, I'm Bailey Dickey.</h1>
 
 <h3 align="leftr">This is my HCDE 598 Special Topics Digital Fabrication documentation page!</h3>
@@ -24,7 +24,7 @@
 - 🛠 I would love to share more with the class about **letting go of artistic expectations for the sake of getting your hands dirty and learning.**
 
 - ✨ A fun fact about me is that **I am a shameless outfit repeater.**
-
+ 
 <p align="left">
 </p>
 </div>
@@ -36,7 +36,6 @@
 Assignment 1 was a panda!
 </p>
 </div>
-
 <div class="assignment">
 <a href="assignment2.html"><h2>Assignment 2: Getting started with 3D printing!</h2>
 <img src="red-panda.jpg" width=250></a>
