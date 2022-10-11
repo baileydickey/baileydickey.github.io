@@ -49,23 +49,23 @@
 
 <h3>My Approach</h3>
  
-<p>In the pursuit of project inspiration, I turned to Pinterest.  I would usually avoid doing this out of fear that I would simply end up with a copy of another person's work. However, I decided to approach this project as an exploratory lesson in using tools such as Rhino and laser cutters rather than a pure design exercise where I would feel the need to hyper-fixate on creating a truly unique concept.</p>
+<p>In the pursuit of project inspiration, I turned to Pinterest. I would usually avoid doing this out of fear that I would simply end up with a copy of another person's work. However, I decided to approach this project as an exploratory lesson in using tools such as Rhino and laser cutters rather than a pure design exercise where I would feel the need to hyper-fixate on creating a truly unique concept.</p>
 
 <p>After scrolling through a myriad of press-fit kits, cardboard sculptures, and children's puzzle images, I found the perfect reference image (Image 1). I then sketched a series of potential pieces I could create using similar shapes.</p>
  
 <a href="https://imgur.com/j0edVGO"><img src="https://imgur.com/j0edVGO.jpg" width="300" title="source: imgur.com"/></a>
 
-<p> Image 1. Pinterest Reference.</p>
+<p><em> Image 1. Pinterest Reference.</em></p>
 
 <p> Following my ideation session, I turned to a quick round of physical prototyping using scrap cardboard (Image 2). I know that I struggle with conceptualizing measurements when I rely on purely digital means of design and drafting, so I figured it would be helpful for me to get a more hands-on start before finalizing my design in Rhino. This exercise ended up being extremely helpful in determining size requirements and also in finding ways to alter my design to be slightly more unique rather than a pure copy of my reference image. I decided to add a chamfer to my pieces for a better fit and also mocked up designs to explore laser-cutting patterns into some of the solid bits of the pieces (Image 3).</p>
 
 <a href="https://imgur.com/d6IHObM"><img src="https://imgur.com/d6IHObM.jpg" width="300" title="source: imgur.com" /></a>
 
-<p> Image 2. Hand-cut Prototype.</p>
+<p><em>Image 2. Hand-cut Prototype.</em></p>
   
 <a href="https://imgur.com/EjoUrFY"><img src="https://imgur.com/EjoUrFY.jpg" width="300" title="source: imgur.com" /></a>
 
-<p> Image 3. Final Design.</p>
+<p><em>Image 3. Final Design.</em></p>
 
 <p>With solidified design plans, I then moved into Rhino to create my source files or digital patterns for the laser cutter. I found that there were plenty of resources on youtube and web boards that I was able to use for reference and general guidance. However, the laser cutter was still down, so I couldn’t be entirely sure that my measurements, especially the kerf measurements, were correct. When the laser cutter is back up and running, I will be able to make more fine-tuned adjustments based on test cuts. The Rhino design file was also transferred to Adobe Illustrator as a flat image as a final step before printing could occur.</p>
   
@@ -77,7 +77,7 @@ https://github.com/baileydickey/baileydickey.github.io/blob/282fb3ac9045343a2c82
 <p>Second Shape Rhino File:
 https://github.com/baileydickey/baileydickey.github.io/blob/282fb3ac9045343a2c823c261685ceb7051c022c/lasercutefinalpart2.3dm</p>
 
-<p>Both Shapes AI File:
+<p>AI File:
 https://github.com/baileydickey/baileydickey.github.io/blob/282fb3ac9045343a2c823c261685ceb7051c022c/BaileyDickeyLaserCutHCDE533.ai</p>
 </p>
 </div>
