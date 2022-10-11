@@ -46,7 +46,7 @@ ul.a {
 </div>
 <div class="assignments">
 <div class="assignment">
-<a href="assignment1.html"><h2>Assignment 1: Modelling and Laser Cutting!</h2>
+<a href="https://github.com/baileydickey/baileydickey.github.io/blob/802c9e798615e81b36688ad0afa81ddd3c7e31ff/assignment1"><h2>Assignment 1: Modelling and Laser Cutting!</h2>
 <img src="red-panda.jpg" width=250></a>
 <p>
 Assignment 1 was a panda!
