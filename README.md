@@ -1,3 +1,12 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<meta charset="utf-8"> 
+<meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+<link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+</head> 
+ <body> 
+ <div class="header">
 <h1 align="left">Hi 👋, I'm Bailey Dickey.</h1>
 
 <h3 align="leftr">This is my HCDE 598 Special Topics Digital Fabrication documentation page!</h3>
@@ -18,8 +27,8 @@
 
 <p align="left">
 </p>
- </div>
-        <div class="assignments">
+</div>
+<div class="assignments">
 <div class="assignment">
 <a href="assignment1.html"><h2>Assignment 1: Modelling and Laser Cutting!</h2>
 <img src="red-panda.jpg" width=250></a>
