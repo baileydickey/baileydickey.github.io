@@ -46,8 +46,9 @@ ul.a {
 </div>
 <div class="assignments">
 <div class="assignment">
+<h1 align="left">Assignment 1</h1>
 <a href="assignment1.html"</h2>
-<img src="red-panda.jpg" width=250></a>
+<a href="https://imgur.com/EjoUrFY"><img src="https://imgur.com/EjoUrFY.jpg" width="300" title="source: imgur.com" /></a>
 <p>
 <h3 align="leftr">Assignment Prompt</h3>
 “Make a kit consisting of at least 30 instances of at least one unique part! The parts must have slots that press fit into the other parts in the kit! The parts must be laser-cut out of cardboard! Your fit should be such that the parts do not come apart with light shaking!”
@@ -58,18 +59,20 @@ In the pursuit of project inspiration, I turned to Pinterest.  I would usually a
 After scrolling through a myriad of press-fit kits, cardboard sculptures, and children's puzzle images, I found the perfect reference image (Image 1). I then sketched a series of potential pieces I could create using similar shapes. 
  
 <a href="https://imgur.com/j0edVGO"><img src="https://imgur.com/j0edVGO.jpg" width="300" title="source: imgur.com" /></a>
-###### <p align="leftr"> Image 1. Pinterest Reference.
+<p align="leftr"> Image 1. Pinterest Reference.
 
 Following my ideation session, I turned to a quick round of physical prototyping using scrap cardboard (Image 3). I know that I struggle with conceptualizing measurements when I rely on purely digital means of design and drafting, so I figured it would be helpful for me to get a more hands-on start before finalizing my design in Rhino. This exercise ended up being extremely helpful in determining size requirements and also in finding ways to alter my design to be slightly more unique rather than a pure copy of my reference image. I decided to add a chamfer to my pieces for a better fit and also mocked up designs to explore laser-cutting patterns into some of the solid bits of the pieces (Image 4).
 
 <a href="https://imgur.com/d6IHObM"><img src="https://imgur.com/d6IHObM.jpg" width="300" title="source: imgur.com" /></a>
-###### <p align="leftr"> Image 3. Hand-cut Prototype.
+<p align="leftr"> Image 3. Hand-cut Prototype.
   
 <a href="https://imgur.com/EjoUrFY"><img src="https://imgur.com/EjoUrFY.jpg" width="300" title="source: imgur.com" /></a>
-###### <p align="leftr"> Image 4. Final Design. 
+<p align="leftr"> Image 4. Final Design. 
 
 With solidified design plans, I then moved into Rhino to create my source files or digital patterns for the laser cutter. I found that there were plenty of resources on youtube and web boards that I was able to use for reference and general guidance. However, the laser cutter was still down, so I couldn’t be entirely sure that my measurements, especially the kerf measurements, were correct. When the laser cutter is back up and running, I will be able to make more fine-tuned adjustments based on test cuts. The Rhino design file was also transferred to Adobe Illustrator as a flat image as a final step before printing could occur. 
-
+  
+<h3 align="leftr">Source Files</h3>
+ 
 </p>
 </div>
 </div>
