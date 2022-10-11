@@ -40,10 +40,12 @@
 </div>
 <div class="assignments">
 <div class="assignment">
+ 
 <h1 align="left">Assignment 1</h1>
-<a href="assignment1.html"</h2>
+
 <a href="https://imgur.com/EjoUrFY"><img src="https://imgur.com/EjoUrFY.jpg" width="300" title="source: imgur.com" /></a>
 <p>
+ 
 <h3 align="leftr">Assignment Prompt</h3>
 “Make a kit consisting of at least 30 instances of at least one unique part! The parts must have slots that press fit into the other parts in the kit! The parts must be laser-cut out of cardboard! Your fit should be such that the parts do not come apart with light shaking!”
 
