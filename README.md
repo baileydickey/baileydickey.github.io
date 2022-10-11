@@ -16,15 +16,15 @@
 
 <h3 align="leftr">About me...</h3>
 
-- 👩🏻‍🎓 I am currently a **second year MS HCDE student.**
+<p> - 👩🏻‍🎓 I am currently a <strong>second year MS HCDE student.</strong></p>
 
-- 🌱 I have a background in **studio art and environmental science.**
+<p> - 🌱 I have a background in <strong>studio art and environmental science.</strong></p>
 
-- 🧠 I’m excited to learn more about **how to use digital fabrication tools to create both artistic and functional work while further exploring my interests in ethical design, the environment, and the interaction between humans x technology.**
+<p> - 🧠 I’m excited to learn more about <strong>how to use digital fabrication tools to create both artistic and functional work while further exploring my interests in ethical design, the environment, and the interaction between humans x technology.</strong></p>
 
-- 🛠 I would love to share more with the class about **letting go of artistic expectations for the sake of getting your hands dirty and learning.**
+<p> - 🛠 I would love to share more with the class about <strong>letting go of artistic expectations for the sake of getting your hands dirty and learning.</strong></p>
 
-- ✨ A fun fact about me is that **I am a shameless outfit repeater.**
+<p> - ✨ A fun fact about me is that <strong>I am a shameless outfit repeater.</strong></p>
  
 <p align="left">
 </p>
