@@ -1,11 +1,11 @@
 <!DOCTYPE html> 
 <html> 
-    <head> 
-        <meta charset="utf-8"> 
-        <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+<head> 
+<meta charset="utf-8"> 
+<meta name="viewport" content="width=device-width, maximum-scale=1.0" />
 
- <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
- </head> 
+<link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+</head> 
  <body> 
  <div class="header">
 <h1 align="left">Hi 👋, I'm Bailey Dickey.</h1>
