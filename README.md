@@ -68,10 +68,8 @@ With solidified design plans, I then moved into Rhino to create my source files 
 <h3 align="leftr">Source Files</h3>
 First Shape Rhino File:
 https://github.com/baileydickey/baileydickey.github.io/blob/282fb3ac9045343a2c823c261685ceb7051c022c/FinalLaserCut.3dm
-
 Second Shape Rhino File:
 https://github.com/baileydickey/baileydickey.github.io/blob/282fb3ac9045343a2c823c261685ceb7051c022c/lasercutefinalpart2.3dm
- 
 Both Shapes AI File:
 https://github.com/baileydickey/baileydickey.github.io/blob/282fb3ac9045343a2c823c261685ceb7051c022c/BaileyDickeyLaserCutHCDE533.ai
 </p>
